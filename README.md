@@ -86,13 +86,10 @@ Mentorship Program - Smart Assignment Engine
 
 ![adding assignment](https://github.com/smartinternz02/SI-GuidedProject-542291-1691205286/assets/84492994/24811ee5-e0d7-4920-9744-7b1e08a3928b)
 
-### Adding Module
-
-![add module](https://github.com/smartinternz02/SI-GuidedProject-542291-1691205286/assets/84492994/8c97544f-3e1b-4496-a1c3-e9c32bc555c6)
-
-### Adding Users
-
-![add user](https://github.com/smartinternz02/SI-GuidedProject-542291-1691205286/assets/84492994/419e99d0-f59d-4045-b320-ea7e02828c3f)
-
-
-
+# Course completion badges earned:
+#
+ ╰┈➤Journey To Cloud: Envisioning Your Solution:
+ https://www.credly.com/badges/ade5b5d2-6493-469b-89d4-0e0acf486de0/public_url
+ 
+ ╰┈➤Getting Started with Enterprise Data Science:
+ https://www.credly.com/badges/c4adcd35-d934-41c8-bd1d-ecb965e232e0/public_url
