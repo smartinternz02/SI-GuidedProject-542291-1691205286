@@ -88,7 +88,7 @@ Mentorship Program - Smart Assignment Engine
 
 ### Adding Module
 
-![add module](https://github.com/smartinternz02/SI-GuidedProject-542291-1691205286/assets/84492994/9835558e-1acd-4e34-abef-4b2c
+![add module](https://github.com/smartinternz02/SI-GuidedProject-542291-1691205286/assets/84492994/8c97544f-3e1b-4496-a1c3-e9c32bc555c6)
 
 ### Adding Users
 
