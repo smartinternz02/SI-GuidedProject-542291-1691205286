@@ -12,6 +12,10 @@ Mentorship Program - Smart Assignment Engine
 ### first save the database file then try to run this project 
  project.sql
 
+### Demo Link
+
+https://res.cloudinary.com/deztphoec/video/upload/v1691746664/ibmbuildathon_rjhlhe.mp4
+
 ## USER INTERFACE DESIGN
  
 ### Login Page
