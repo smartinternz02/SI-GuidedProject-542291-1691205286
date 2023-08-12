@@ -14,7 +14,7 @@ Mentorship Program - Smart Assignment Engine
 
 ### Demo Link
 
-https://res.cloudinary.com/deztphoec/video/upload/v1691746664/ibmbuildathon_rjhlhe.mp4
+[Project Demonstration](https://res.cloudinary.com/deztphoec/video/upload/v1691746664/ibmbuildathon_rjhlhe.mp4)
 
 ## USER INTERFACE DESIGN
  
